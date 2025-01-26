@@ -1,2 +1,2 @@
 console.log("git tutorial")
-console.log("git tutorial version 3 ")
+console.log("git tutorial")

@@ -2,3 +2,6 @@ this is to test git push for new version
 
 this is commit after feature1 branch has been committed for 2 times
 and this is totally different location of where the modification has done for feature1 branch 
+
+
+this is also master branch committed
